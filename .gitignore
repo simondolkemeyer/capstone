@@ -1,0 +1,5 @@
+.terraform*
+terraform*
+tf*
+notes.txt
+.DS_Store
